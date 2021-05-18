@@ -1,0 +1,2 @@
+(today is Thursday)
+(tomorrow is Friday)
